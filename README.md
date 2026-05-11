@@ -19,6 +19,8 @@ The project is designed to help identify synthetic media and improve digital con
 - Lightweight and deployable on Streamlit Cloud
 
 ---
+<img width="570" height="500" alt="image" src="https://github.com/user-attachments/assets/5f49f499-9e39-4739-ab05-1bfb28ea40bd" />
+
 
 ## 🧠 Technologies Used
 
@@ -30,6 +32,8 @@ The project is designed to help identify synthetic media and improve digital con
 - Pillow (PIL)
 
 ---
+<img width="608" height="375" alt="image" src="https://github.com/user-attachments/assets/ee8046a6-1b9f-429b-8d83-28c180264336" />
+
 
 ## 📂 Project Structure
 
@@ -43,6 +47,7 @@ DeepShield/
 ├── README.md
 └── assets/
 ```
+<img width="987" height="881" alt="image" src="https://github.com/user-attachments/assets/a1dc32ce-d2e5-4133-ab7d-ded707749876" />
 
 ---
 
